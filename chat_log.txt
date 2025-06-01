@@ -1,0 +1,18 @@
+you: Hello!
+bot: Hi! How can I help you today?
+
+you: What's your name?
+bot: I'm an AI chatbot designed to help with your questions.
+
+you: Tell me a joke.
+bot: Why don't scientists trust atoms? Because they make up everything!
+
+you: Can you remember past questions?
+bot: Yes, I can remember your previous messages during this session and respond accordingly.
+
+you: That’s great. What's the capital of France?
+bot: The capital of France is Paris.
+
+you: Thanks!
+bot: You're welcome!
+
